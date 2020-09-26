@@ -1,0 +1,24 @@
+{
+  "name": "algo8",
+  "version": "1.0.0",
+  "description": "Website to sell and buy Mobile Phones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samyak",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.2.6",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.6",
+    "socket.io": "^2.3.0",
+    "stripe": "^8.100.0",
+    "validator": "^13.1.17"
+  }
+}
